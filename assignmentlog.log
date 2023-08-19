@@ -1,0 +1,8 @@
+Aug 19, 2023 11:28:08 AM Main main
+INFO: 🟢 Application start.
+Aug 19, 2023 11:28:13 AM Main main
+INFO: 🟢 User have enter an integer: 3
+Aug 19, 2023 11:28:22 AM Main main
+INFO: 🟢 Application start.
+Aug 19, 2023 11:28:26 AM Main main
+SEVERE: 🔴 User enter invalid input. ERROR: java.util.InputMismatchException
